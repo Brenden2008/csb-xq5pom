@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACC,UACD,CAEA,cACC,WACD,CAEA,YACC,SACD,CAEA,UACC,iBACD","file":"source.41c60b9f.css","sourceRoot":"..","sourcesContent":[".proxy-url {\n\tcolor: blue;\n}\n\n.proxy-server {\n\tcolor: green;\n}\n\n.proxy-path {\n\tcolor: red;\n}\n\n.big-font {\n\tfont-size: x-large;\n}\n"]}
